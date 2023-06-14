@@ -3,7 +3,7 @@ Hello!
 Welcome to my stanCode projects!
 This respository holds my programming projects done during the peroiod of stanCode course.
 
-Watch my DEMO VIDEO
+
 
 # Project Source Codes:
 * [Hangman Game](https://github.com/haoyuchan/stancode_projects/tree/main/stancode_projects/hangman_game)
